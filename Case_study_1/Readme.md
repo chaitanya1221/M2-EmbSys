@@ -5,3 +5,6 @@
 ### Ultrasonic sensor
 * Ultrasonic agriculture sensors can be used to monitor irrigation systems to prevent overwatering and
  underwatering damages crops.
+* The Ultrasonic HC-SR04 Sensor Module is a very popular sensor, it used in many applications where measuring distance and detect objects.
+* Ultrasonic Sensors measure the distance to the target by measuring the time between the emission and reception.
+ 
