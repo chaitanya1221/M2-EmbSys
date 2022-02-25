@@ -1,2 +1,2 @@
-#  case study Smart Irrigation System
-
+#  case study on Smart Irrigation System
+# Block Diagram
