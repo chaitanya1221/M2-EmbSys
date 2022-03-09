@@ -1,3 +1,3 @@
 # M2-EmbSys
 
-![CODE QUALITY ]()https://api.codiga.io/project/31794/score/svg
+[![Static_check](https://github.com/chaitanya1221/M2-EmbSys/actions/workflows/build.yml/badge.svg)](https://github.com/chaitanya1221/M2-EmbSys/actions/workflows/build.yml)
